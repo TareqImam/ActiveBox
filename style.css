@@ -5,7 +5,7 @@ body {
 }
 /* header start */
 .header {
-  background-image: url(assets/banner.jpg);
+  background-image: url(Assets/banner.jpg);
   background-size: cover;
   height: 600px;
 }
